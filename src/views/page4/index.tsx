@@ -1,12 +1,12 @@
 import React from 'react';
 
-const About: React.FC = () => {
+const Page4: React.FC = () => {
   return (
     <>
-      <h1>About</h1>
+      <h1>Page4</h1>
       <Link to="/">Home</Link>
     </>
   );
 };
 
-export default About;
+export default Page4;
